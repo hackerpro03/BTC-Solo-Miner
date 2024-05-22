@@ -9,6 +9,9 @@ first install this package's :
 ```
 pip install requests
 pip install colorthon
+git clone https://github.com/hackerpro03/BTC-Solo-Miner
+cd BTC-Solo-Miner
+python SoloMiner.py
 ```
 if use windows can run this code on .bat or .cmd file for loop for ever time to your system ,
 ```
