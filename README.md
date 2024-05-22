@@ -2,6 +2,7 @@
 ## Bitcoin Mining With SoloMiner On Python
 
 New Program Source Bitcoin Free Mining with python and high speed best hash rate . use ckpool for solo miner .
+You can get easy money just use your pc and python
 
 ![Bitcoin Mining With Python Source Solo Miner ckpool](https://mmdrza.com/wp-content/uploads/2022/04/SoloMinerPost.jpg)
 
