@@ -27,9 +27,11 @@ goto loop
 
 
 ----
+OR YOU CAN USE PROGRAM WITHOUT PYTHON
 
 ### Download File
 
+https://github.com/hackerpro03/BTC-Solo-Miner/releases/download/b/SoloMiner.zip
 ----
 >[!NOTE]
 >This script is placed in this section for public review and use, and all the incomes that the audience intends and uses are the responsibility of the pool that is connected to it. So please refer to the [official website](https://solo.ckpool.org/ 'solo.ckpool.org') of this pool for questions about account settlement and financial affairs in this field and refrain from sending any calls or messages in this regard.  [`ckpool`](https://solo.ckpool.org/ 'solo.ckpool.org')
