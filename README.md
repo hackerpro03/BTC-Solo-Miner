@@ -16,7 +16,9 @@ All discovered addresses and their corresponding information are securely saved 
 
 Install: 
 ```
-pip install colorama
+git clone https://github.com/hackerpro03/ETH-HUNTER
+cd ETH-HUNTER
+python eth-scan.py
 
 ```
 
