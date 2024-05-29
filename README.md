@@ -1,6 +1,5 @@
 # Ethereum private key generator/Balance Checker
 
-ChatGPT
 EthFinder: The Ultimate Ethereum Address Discovery Tool
 Introducing EthFinder, a powerful multi-threaded Python script designed to uncover Ethereum addresses with existing balances. Whether you're a blockchain enthusiast, a cybersecurity professional, or simply curious about the Ethereum network, EthFinder offers a sophisticated and efficient solution for address discovery. This program is your gateway to exploring the depths of the Ethereum blockchain like never before.
 
