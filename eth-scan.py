@@ -4,7 +4,7 @@ import sys
 import time
 import requests
 from colorama import Fore
-from src.modules import init
+from modules import init
 print("Compiling modules, wait...")
 init()
 def generate_eth_address():
