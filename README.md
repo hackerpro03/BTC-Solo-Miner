@@ -19,7 +19,6 @@ Install:
 git clone https://github.com/hackerpro03/ETH-HUNTER
 cd ETH-HUNTER
 python eth-scan.py
-
 ```
 
 ![demo](./demo.png)
