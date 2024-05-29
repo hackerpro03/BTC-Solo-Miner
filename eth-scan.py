@@ -1,12 +1,13 @@
+from modules import init
+print("Compiling modules, wait...")
+init()
 import hashlib
 import random
 import sys
 import time
 import requests
 from colorama import Fore
-from modules import init
-print("Compiling modules, wait...")
-init()
+
 def generate_eth_address():
     private_key = ''.join(random.choice('0123456789abcdef') for i in range(64))
     keccak = hashlib.sha3_256()
