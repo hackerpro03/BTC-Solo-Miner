@@ -16,9 +16,10 @@ Secure Data Handling
 All discovered addresses and their corresponding information are securely saved in a file named data.txt. This ensures you have a permanent record of your findings, safeguarded against data loss.
 
 Install: 
-'''
-git clone 
-'''
+```
+pip install colorama
+
+```
 
 ![demo](./demo.png)
 
