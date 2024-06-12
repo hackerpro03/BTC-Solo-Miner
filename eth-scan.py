@@ -42,3 +42,4 @@ while True:
     else:
         print("Error: Failed to retrieve data from Etherscan API")
     time.sleep(0.4)
+    #
