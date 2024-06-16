@@ -10,7 +10,7 @@ Leverage the power of multi-threading to significantly speed up the bruteforce p
 Real-Time Balance Detection
 
 Instantly identify Ethereum addresses that hold a balance. Our program continuously scans and verifies addresses, alerting you as soon as a match is found.
-Secure Data Handling
+Secure Data Handling#
 
 All discovered addresses and their corresponding information are securely saved in a file named data.txt. This ensures you have a permanent record of your findings, safeguarded against data loss.
 
